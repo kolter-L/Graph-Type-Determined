@@ -1,0 +1,14 @@
+C:\Users\kolte\source\repos\GraphType\GraphType\bin\Debug\net8.0\GraphType.exe
+C:\Users\kolte\source\repos\GraphType\GraphType\bin\Debug\net8.0\GraphType.deps.json
+C:\Users\kolte\source\repos\GraphType\GraphType\bin\Debug\net8.0\GraphType.runtimeconfig.json
+C:\Users\kolte\source\repos\GraphType\GraphType\bin\Debug\net8.0\GraphType.dll
+C:\Users\kolte\source\repos\GraphType\GraphType\bin\Debug\net8.0\GraphType.pdb
+C:\Users\kolte\source\repos\GraphType\GraphType\obj\Debug\net8.0\GraphType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolte\source\repos\GraphType\GraphType\obj\Debug\net8.0\GraphType.AssemblyInfoInputs.cache
+C:\Users\kolte\source\repos\GraphType\GraphType\obj\Debug\net8.0\GraphType.AssemblyInfo.cs
+C:\Users\kolte\source\repos\GraphType\GraphType\obj\Debug\net8.0\GraphType.csproj.CoreCompileInputs.cache
+C:\Users\kolte\source\repos\GraphType\GraphType\obj\Debug\net8.0\GraphType.dll
+C:\Users\kolte\source\repos\GraphType\GraphType\obj\Debug\net8.0\refint\GraphType.dll
+C:\Users\kolte\source\repos\GraphType\GraphType\obj\Debug\net8.0\GraphType.pdb
+C:\Users\kolte\source\repos\GraphType\GraphType\obj\Debug\net8.0\GraphType.genruntimeconfig.cache
+C:\Users\kolte\source\repos\GraphType\GraphType\obj\Debug\net8.0\ref\GraphType.dll
